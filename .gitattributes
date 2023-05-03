@@ -1,0 +1,10 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+/binance_data.csv filter=lfs diff=lfs merge=lfs -text
+/blocks_info.csv filter=lfs diff=lfs merge=lfs -text
+/combined_data.csv filter=lfs diff=lfs merge=lfs -text
+/data.csv filter=lfs diff=lfs merge=lfs -text
+/data_new.csv filter=lfs diff=lfs merge=lfs -text
+/fixed_binance_data.csv filter=lfs diff=lfs merge=lfs -text
+/loockback_data.npy filter=lfs diff=lfs merge=lfs -text
+/main.ipynb filter=lfs diff=lfs merge=lfs -text
